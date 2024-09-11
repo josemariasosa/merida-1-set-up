@@ -62,3 +62,11 @@ Vamos a desplegar 2 contratos:
 
 - WETH
 - Staking Liquido
+
+
+
+Faucet de AVAX Fuji testnet
+
+https://core.app/tools/testnet-faucet/?subnet=c&token=c
+
+https://app.infura.io/
